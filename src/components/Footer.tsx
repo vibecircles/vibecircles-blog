@@ -107,7 +107,7 @@ export const Footer = () => {
               href={`https://wisp.blog/?utm_source=next-js-template&utm_medium=web&utm_campaign=${config.baseUrl}`}
               className="hover:text-blue-400 transition-colors"
             >
-              Powered by Wisp
+              Powered by vibecircles
             </Link>
           </div>
         </div>
