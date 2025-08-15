@@ -7,29 +7,39 @@ interface Category {
 
 const categories: Category[] = [
   {
-    label: "Foundation Model",
-    tag: "foundation-model",
-    description: "Insights on powerful AI models at the foundation of tech.",
+    label: "Inspiration & Mindset",
+    tag: "inspiration-mindset",
+    description: "Motivational stories, productivity tips, and creative mindset practices.",
   },
   {
-    label: "Engineering",
-    tag: "engineering",
-    description: "Innovative engineering driving AI advancements.",
+    label: "Creative Tutorials",
+    tag: "creative-tutorials",
+    description: "How-to guides for art, design, video, photography, and creative tools.",
   },
   {
-    label: "Jobs",
-    tag: "jobs",
-    description: "Explore AI job trends and opportunities shaping a brighter future.",
+    label: "Events & Experiences",
+    tag: "events-experiences",
+    description: "Recaps and announcements of festivals, meetups, exhibitions, and workshops.",
   },
   {
-    label: "Startups",
-    tag: "startup",
-    description: "Spotlight on innovative AI startups transforming industries.",
+    label: "Community Stories",
+    tag: "community-stories",
+    description: "Spotlights on VibeCircles members, collaborations, and success stories.",
   },
   {
-    label: "Ethics",
-    tag: "ethics",
-    description: "Promoting responsible AI for positive impact.",
+    label: "Lifestyle & Culture",
+    tag: "lifestyle-culture",
+    description: "Stories exploring modern lifestyle, creativity, and cultural movements.",
+  },
+    {
+    label: "Art & Design",
+    tag: "art-design",
+    description: "Creative techniques, inspiration, and stories from visual artists and designers.",
+  },
+    {
+    label: "NFT & Web3",
+    tag: "nft-web3",
+    description: "Guides, trends, and news from the blockchain and digital art world.",
   },
 ];
 
