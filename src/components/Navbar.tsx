@@ -50,15 +50,6 @@ export const Navbar = () => {
 
           {/* Desktop Actions */}
           <div className="hidden md:flex items-center space-x-4">
-            <Button variant="ghost" size="sm" className="relative text-gray-300 hover:text-white hover:bg-gray-800">
-              <Bell size={18} />
-              <span className="absolute -top-1 -right-1 bg-blue-500 text-white text-xs rounded-full h-4 w-4 flex items-center justify-center">
-                3
-              </span>
-            </Button>
-            <Button variant="ghost" size="sm" className="text-gray-300 hover:text-white hover:bg-gray-800">
-              <MessageCircle size={18} />
-            </Button>
             <Button className="bg-blue-600 hover:bg-blue-700 text-white px-4 py-2 rounded-lg">
               Join Now
             </Button>
