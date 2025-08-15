@@ -13,7 +13,7 @@ export const Navbar = () => {
   const toggleMenu = () => setIsOpen(!isOpen);
 
   return (
-    <nav className="bg-gray-900/95 backdrop-blur-md border-b border-gray-700 sticky top-0 z-50 shadow-lg">
+    <nav className="bg-sky-500/95 backdrop-blur-md border-b border-gray-700 sticky top-0 z-50 shadow-lg">
       <div className="container mx-auto px-4 max-w-6xl">
         <div className="flex justify-between items-center h-16">
           {/* Logo */}
