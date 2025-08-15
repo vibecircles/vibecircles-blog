@@ -50,9 +50,11 @@ export const Navbar = () => {
 
           {/* Desktop Actions */}
           <div className="hidden md:flex items-center space-x-4">
+            <Link href="https://vibecircles.co.za/">
             <Button className="bg-blue-600 hover:bg-blue-700 text-white px-4 py-2 rounded-lg">
               Join Now
             </Button>
+             </Link>
           </div>
 
           {/* Mobile menu button */}
