@@ -3,7 +3,7 @@
 import Link from "next/link";
 import Image from "next/image";
 import { useState } from "react";
-import { Menu, X, Home, Users, MessageCircle, Bell } from "lucide-react";
+import { Menu, X, Home, Users, } from "lucide-react";
 import { config } from "@/config";
 import { Button } from "./ui/button";
 
